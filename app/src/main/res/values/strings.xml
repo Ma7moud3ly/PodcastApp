@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name" translatable="false">Podcast App 🎙️</string>
+
+    <string name="home_welcome">Good Evening, %s</string>
+    <string name="home_for_you">For You</string>
+    <string name="home_podcasts">Podcasts</string>
+    <string name="home_episodes">Episodes</string>
+    <string name="home_audio_books">Audio Books</string>
+    <string name="home_audio_articles">Audio Articles</string>
+
+    <string name="episode_duration">%d س %d د</string>
+    <string name="episode_time">%d ago</string>
+    <string name="episode_time_h">h</string>
+    <string name="episode_time_m">m</string>
+    <plurals name="episode_count">
+        <item quantity="zero">%d Episode</item>
+        <item quantity="one">%d Episode</item>
+        <item quantity="two">%d Episodes</item>
+        <item quantity="few">%d Episodes</item>
+        <item quantity="many">%d Episodes</item>
+        <item quantity="other">%d Episodes</item>
+    </plurals>
+
+    <string name="error_title">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+    <string name="error_no_internet">No internet connection. Please check your network and try again.</string>
+    <string name="error_unknown">An unexpected error occurred. Please try again.</string>
+
+    <string name="search_placeholder">Search for a show, an episode or person</string>
+    <string name="search_message">You can use the search to find more episodes and podcasts</string>
+    <string name="search_cancel">Cancel</string>
+    <string name="search_clear_content_description">Clear search query</string>
+    <string name="search_icon_content_description">Search icon</string>
+    <string name="search_cat_all">All</string>
+    <string name="search_cat_episodes">Episodes</string>
+    <string name="search_cat_shows">Shows</string>
+    <string name="search_cat_people">People</string>
+    <string name="search_cat_audio_books">Audio Books</string>
+    <string name="search_cat_articles">Articles</string>
+
+</resources>

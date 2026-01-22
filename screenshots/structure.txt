@@ -1,0 +1,32 @@
+App
+
+├── MainActivity.kt
+├── PodcastApp.kt
+
+shared logic
+├── core/
+│   ├── data/mapper/
+│   ├── di/
+│   ├── domain/model/
+│   └── ui/
+│       ├── theme/
+│       └── components/
+
+Home Feature                          Search Feature
+  data/                                 data/
+  ├── api/                             ├── api/
+  ├── datasource/remote/               ├── datasource/remote/
+  ├── di/                              ├── di/
+  ├── mapper/                          ├── mapper/
+  ├── model/                           ├── model/
+  └── repository/                      └── repository/
+
+  domain/                               domain/
+  ├── repository/                      ├── repository/
+  └── use_case/                        └── use_case/
+
+  presentation/                         presentation/
+  ├── components/                      ├── components/
+  ├── model/                           ├── model/
+  ├── HomeScreen.k                     ├── SearchScreen.kt
+  └── HomeViewModel.kt                 └── SearchViewModel.kt

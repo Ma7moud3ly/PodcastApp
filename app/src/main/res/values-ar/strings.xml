@@ -1,0 +1,38 @@
+<resources>
+    <string name="home_welcome">مساء الخير، %s</string>
+    <string name="home_for_you">لك</string>
+    <string name="home_podcasts">البودكاست</string>
+    <string name="home_episodes">الحلقات</string>
+    <string name="home_audio_books">الكتب الصوتية</string>
+    <string name="home_audio_articles">المقالات الصوتية</string>
+
+    <string name="episode_duration">%d س %d د</string>
+    <string name="episode_time">قبل %d ساعات</string>
+    <string name="episode_time_h">س</string>
+    <string name="episode_time_m">د</string>
+    <plurals name="episode_count">
+        <item quantity="zero">%d حلقة</item>
+        <item quantity="one">%d حلقة</item>
+        <item quantity="two">%d حلقة</item>
+        <item quantity="few">%d حلقات</item>
+        <item quantity="many">%d حلقة</item>
+        <item quantity="other">%d حلقة</item>
+    </plurals>
+
+    <string name="error_title">حدث خطأ ما</string>
+    <string name="error_retry">إعادة المحاولة</string>
+    <string name="error_no_internet">لا يوجد اتصال بالإنترنت. يرجى التحقق من الشبكة والمحاولة مرة أخرى.</string>
+    <string name="error_unknown">حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى.</string>
+
+    <string name="search_placeholder">ابحث عن برنامج أو حلقة أو شخص</string>
+    <string name="search_message">يمكنك استخدام البحث للعثور على المزيد من الحلقات والبودكاست</string>
+    <string name="search_cancel">إلغاء</string>
+    <string name="search_clear_content_description">مسح نص البحث</string>
+    <string name="search_icon_content_description">أيقونة البحث</string>
+    <string name="search_cat_all">الكل</string>
+    <string name="search_cat_episodes">الحلقات</string>
+    <string name="search_cat_shows">البرامج</string>
+    <string name="search_cat_people">الناس</string>
+    <string name="search_cat_audio_books">الكتب</string>
+    <string name="search_cat_articles">المقالات</string>
+</resources>
