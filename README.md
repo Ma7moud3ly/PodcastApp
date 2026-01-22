@@ -103,7 +103,7 @@ Home Feature                          Search Feature
 
 | Light (EN)          | Dark (AR)                   |
 |---------------------|-----------------------------|
-| <video src="" width="250" controls></video>  | <video src="" width="250" controls></video>  |
+| <video src="https://github.com/user-attachments/assets/1fbe75fc-cd29-44e1-9896-4498f8e909be" width="250" controls></video>  | <video src="https://github.com/user-attachments/assets/ff6f569e-a31b-417c-a312-eb418484ad8a" width="250" controls></video>  |
 
 ---
 
